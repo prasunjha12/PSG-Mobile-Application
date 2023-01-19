@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PSG Mobile Application</string>
+    <string name="academics">Academics</string>
+    <string name="admissions">Admissions</string>
+    <string name="about_us">About us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="programmes">Programmes</string>
+    <string name="departments">Departments</string>
+    <string name="scholarship">Scholarship</string>
+    <string name="placements">Placements</string>
+    <string name="academic_calendar">Academic Calendar</string>
+    <string name="library">Library</string>
+    <string name="sports">Sports</string>
+</resources>
